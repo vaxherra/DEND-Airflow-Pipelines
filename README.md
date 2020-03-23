@@ -86,5 +86,5 @@ Initial SQL queries defining a set of staging, fact and dimension tables are pro
 ### Pipeline DAG
 
 A Pipeline DAG is shown below
-<img src="imgs/etl_dag.png" alt="DAG of a defined ETL pipeline in Airflow" width="800" height="600" border="10" />
+<img src="imgs/etl_dag.png" alt="DAG of a defined ETL pipeline in Airflow" width="800" height="300" border="10" />
  
